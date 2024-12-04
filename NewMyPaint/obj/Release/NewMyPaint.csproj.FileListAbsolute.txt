@@ -1,0 +1,28 @@
+C:\Files\ZUB\4 курс\1 семестр\ДЗ\ПАК ПС\4_Команда\NewMyPaint\NewMyPaint\bin\Release\NewMyPaint.exe.config
+C:\Files\ZUB\4 курс\1 семестр\ДЗ\ПАК ПС\4_Команда\NewMyPaint\NewMyPaint\bin\Release\NewMyPaint.exe
+C:\Files\ZUB\4 курс\1 семестр\ДЗ\ПАК ПС\4_Команда\NewMyPaint\NewMyPaint\bin\Release\NewMyPaint.pdb
+C:\Files\ZUB\4 курс\1 семестр\ДЗ\ПАК ПС\4_Команда\NewMyPaint\NewMyPaint\obj\Release\NewMyPaint.csproj.AssemblyReference.cache
+C:\Files\ZUB\4 курс\1 семестр\ДЗ\ПАК ПС\4_Команда\NewMyPaint\NewMyPaint\obj\Release\MainWindow.baml
+C:\Files\ZUB\4 курс\1 семестр\ДЗ\ПАК ПС\4_Команда\NewMyPaint\NewMyPaint\obj\Release\MainWindow.g.cs
+C:\Files\ZUB\4 курс\1 семестр\ДЗ\ПАК ПС\4_Команда\NewMyPaint\NewMyPaint\obj\Release\App.g.cs
+C:\Files\ZUB\4 курс\1 семестр\ДЗ\ПАК ПС\4_Команда\NewMyPaint\NewMyPaint\obj\Release\NewMyPaint_MarkupCompile.cache
+C:\Files\ZUB\4 курс\1 семестр\ДЗ\ПАК ПС\4_Команда\NewMyPaint\NewMyPaint\obj\Release\NewMyPaint.g.resources
+C:\Files\ZUB\4 курс\1 семестр\ДЗ\ПАК ПС\4_Команда\NewMyPaint\NewMyPaint\obj\Release\NewMyPaint.Properties.Resources.resources
+C:\Files\ZUB\4 курс\1 семестр\ДЗ\ПАК ПС\4_Команда\NewMyPaint\NewMyPaint\obj\Release\NewMyPaint.csproj.GenerateResource.cache
+C:\Files\ZUB\4 курс\1 семестр\ДЗ\ПАК ПС\4_Команда\NewMyPaint\NewMyPaint\obj\Release\NewMyPaint.csproj.CoreCompileInputs.cache
+C:\Files\ZUB\4 курс\1 семестр\ДЗ\ПАК ПС\4_Команда\NewMyPaint\NewMyPaint\obj\Release\NewMyPaint.exe
+C:\Files\ZUB\4 курс\1 семестр\ДЗ\ПАК ПС\4_Команда\NewMyPaint\NewMyPaint\obj\Release\NewMyPaint.pdb
+C:\Users\otrix\OneDrive\Рабочий стол\NewMyPaint\NewMyPaint\bin\Release\NewMyPaint.exe.config
+C:\Users\otrix\OneDrive\Рабочий стол\NewMyPaint\NewMyPaint\bin\Release\NewMyPaint.exe
+C:\Users\otrix\OneDrive\Рабочий стол\NewMyPaint\NewMyPaint\bin\Release\NewMyPaint.pdb
+C:\Users\otrix\OneDrive\Рабочий стол\NewMyPaint\NewMyPaint\obj\Release\NewMyPaint.csproj.AssemblyReference.cache
+C:\Users\otrix\OneDrive\Рабочий стол\NewMyPaint\NewMyPaint\obj\Release\MainWindow.baml
+C:\Users\otrix\OneDrive\Рабочий стол\NewMyPaint\NewMyPaint\obj\Release\MainWindow.g.cs
+C:\Users\otrix\OneDrive\Рабочий стол\NewMyPaint\NewMyPaint\obj\Release\App.g.cs
+C:\Users\otrix\OneDrive\Рабочий стол\NewMyPaint\NewMyPaint\obj\Release\NewMyPaint_MarkupCompile.cache
+C:\Users\otrix\OneDrive\Рабочий стол\NewMyPaint\NewMyPaint\obj\Release\NewMyPaint.g.resources
+C:\Users\otrix\OneDrive\Рабочий стол\NewMyPaint\NewMyPaint\obj\Release\NewMyPaint.Properties.Resources.resources
+C:\Users\otrix\OneDrive\Рабочий стол\NewMyPaint\NewMyPaint\obj\Release\NewMyPaint.csproj.GenerateResource.cache
+C:\Users\otrix\OneDrive\Рабочий стол\NewMyPaint\NewMyPaint\obj\Release\NewMyPaint.csproj.CoreCompileInputs.cache
+C:\Users\otrix\OneDrive\Рабочий стол\NewMyPaint\NewMyPaint\obj\Release\NewMyPaint.exe
+C:\Users\otrix\OneDrive\Рабочий стол\NewMyPaint\NewMyPaint\obj\Release\NewMyPaint.pdb

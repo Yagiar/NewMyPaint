@@ -1,0 +1,96 @@
+﻿using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Input;
+
+namespace NewMyPaint
+{
+    public partial class MainWindow : Window
+    {
+        Factory factory;
+        Figure figure;
+        Point start, end;
+        FiguresCollection collection = new FiguresCollection();
+        private Decorator decorator;
+        public MainWindow()
+        {
+            InitializeComponent();
+        }
+        private void can_MouseMove(object sender, MouseEventArgs e)
+        {
+            coords.Content = e.GetPosition(can).ToString();
+        }
+        private void Canvas_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            if (factory != null)
+            {
+                figure = factory.GetShape();
+                start = e.GetPosition(can);
+                return;
+            }
+            else
+            {
+                Point clickPoint = e.GetPosition(can);
+                decorator = new Decorator();
+                foreach (Figure fig in collection.GetFigures())
+                {
+                    decorator.Assign(fig);
+                    if (decorator.Touch((int)clickPoint.X, (int)clickPoint.Y))
+                    {
+                        start = clickPoint;
+                        return;
+                    }
+                }
+            }
+        }
+        private void Canvas_MouseUp(object sender, MouseButtonEventArgs e)
+        {
+            if (decorator != null)
+            {
+                end = e.GetPosition(can);
+                decorator.Drag((int)(end.X - start.X), (int)(end.Y - start.Y), can);
+                can.Children.Clear();
+                collection.Draw(can);
+                decorator =null;
+            }
+            else if (figure != null)
+            {
+                end = e.GetPosition(can);
+                figure.startPoint.X = start.X;
+                figure.startPoint.Y = start.Y;
+                figure.endPoint.X = end.X;
+                figure.endPoint.Y = end.Y;
+                figure.Show(can);
+                collection.Add(figure);
+                return;
+            }
+        }
+        private void RectangleButton_Click(object sender, RoutedEventArgs e)
+        {
+            factory = new RectangleFactory();
+        }
+        private void TriangleButton_Click(object sender, RoutedEventArgs e)
+        {
+            factory = new TriangleFactory();
+        }
+        private void CircleButton_Click(object sender, RoutedEventArgs e)
+        {
+            factory = new CircleFactory();
+        }
+        private async void ReloadButton_Click(object sender, RoutedEventArgs e)
+        {
+            can.Children.Clear();
+            await Task.Delay(500);
+            collection.Draw(can);
+        }
+        private void SelectButton_Click(object sender, RoutedEventArgs e)
+        {
+            figure = null;
+            factory = null;
+        }
+        private void Clear_Click(object sender, RoutedEventArgs e)
+        {
+            can.Children.Clear();
+            collection.Clear();
+        }
+    } 
+}

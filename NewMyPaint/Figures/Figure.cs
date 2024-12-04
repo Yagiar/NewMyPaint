@@ -1,0 +1,14 @@
+﻿using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Shapes;
+
+namespace NewMyPaint
+{
+    public abstract class Figure
+    {
+        public Point startPoint = new Point(); 
+        public Point endPoint = new Point();
+        public abstract Shape GetShape();
+        public abstract void Show(Canvas panel);
+    }
+}
