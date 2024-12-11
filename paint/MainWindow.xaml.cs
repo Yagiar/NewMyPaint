@@ -97,10 +97,90 @@ namespace paint
         }
 
 
+        private void ToggleButton_Checked_6(object sender, RoutedEventArgs e)
+        {
+            my = Brushes.White;
+            if (selectedFigure != null)
+            {
+                foreach (Fig f in selectedFigure)
+                {
+                    FillCommand fillCommand = new FillCommand();
+                    fillCommand.fill(canvas, f, collection, (Brush)my);
+                    commandManager.ExecuteCommand(fillCommand);
+                }
+                
+            }
+        }
 
+        private void ToggleButton_Checked_7(object sender, RoutedEventArgs e)
+        {
+            my = Brushes.Black;
+            if (selectedFigure != null)
+            {
+                foreach (Fig f in selectedFigure)
+                {
+                    FillCommand fillCommand = new FillCommand();
+                    fillCommand.fill(canvas, f, collection, (Brush)my);
+                    commandManager.ExecuteCommand(fillCommand);
+                }
+            }
+        }
 
+        private void ToggleButton_Checked_8(object sender, RoutedEventArgs e)
+        {
+            my = Brushes.Green;
+            if (selectedFigure != null)
+            {
+                foreach (Fig f in selectedFigure)
+                {
+                    FillCommand fillCommand = new FillCommand();
+                    fillCommand.fill(canvas, f, collection, (Brush)my);
+                    commandManager.ExecuteCommand(fillCommand);
+                }
+            }
+        }
 
-        
+        private void ToggleButton_Checked_9(object sender, RoutedEventArgs e)
+        {
+            my = Brushes.Yellow;
+            if (selectedFigure != null)
+            {
+                foreach (Fig f in selectedFigure)
+                {
+                    FillCommand fillCommand = new FillCommand();
+                    fillCommand.fill(canvas, f, collection, (Brush)my);
+                    commandManager.ExecuteCommand(fillCommand);
+                }
+            }
+        }
+
+        private void ToggleButton_Checked_10(object sender, RoutedEventArgs e)
+        {
+            my = Brushes.Red;
+            if (selectedFigure != null)
+            {
+                foreach (Fig f in selectedFigure)
+                {
+                    FillCommand fillCommand = new FillCommand();
+                    fillCommand.fill(canvas, f, collection, (Brush)my);
+                    commandManager.ExecuteCommand(fillCommand);
+                }
+            }
+        }
+
+        private void ToggleButton_Checked_13(object sender, RoutedEventArgs e)
+        {
+            my = Brushes.Blue;
+            if (selectedFigure != null)
+            {
+                foreach (Fig f in selectedFigure)
+                {
+                    FillCommand fillCommand = new FillCommand();
+                    fillCommand.fill(canvas, f, collection, (Brush)my);
+                    commandManager.ExecuteCommand(fillCommand);
+                }
+            }
+        }
 
         private void Button_Click_5(object sender, RoutedEventArgs e)
         {
@@ -142,39 +222,17 @@ namespace paint
             collection.clear();
         }
 
+        //private void ch_Checked(object sender, RoutedEventArgs e)
+        //{
+        //    fig.Fill(my);
+        //}
 
-        private void Button_Click_12(object sender, RoutedEventArgs e)
-        {
-            if (Keyboard.IsKeyDown(Key.LeftCtrl))
-                currentSt = new SelectStrategy(collection);
-        }
+        //private void ch_Unchecked(object sender, RoutedEventArgs e)
+        //{
+        //    fig.Fill(my1);
+        //}
 
-        private void Button_Click_13(object sender, RoutedEventArgs e)
-        {
-            canvas.Children.Clear();
-            collection.Draw(canvas);
-        }
-
-        
-
-        private void Grid_KeyDown(object sender, KeyEventArgs e)
-        {
-            if(Keyboard.IsKeyDown(Key.LeftCtrl) && Keyboard.IsKeyDown(Key.Z))
-            {
-                commandManager.undoCommand();
-            }
-
-            if (Keyboard.IsKeyDown(Key.LeftCtrl) && Keyboard.IsKeyDown(Key.Y))
-            {
-                commandManager.UndoUndoCommand();
-            }
-            if (selectedFigure!=null)
-            {
-                //selectedFigure = GetShapeUnderMouse(p1);
-            }
-        }
-
-        private void Button_Click_Save(object sender, RoutedEventArgs e)
+        private void Button_Click(object sender, RoutedEventArgs e)
         {
             Microsoft.Win32.SaveFileDialog saveimg = new Microsoft.Win32.SaveFileDialog();
             saveimg.DefaultExt = ".PNG";
@@ -199,10 +257,45 @@ namespace paint
             }
         }
 
+        private void Button_Click_12(object sender, RoutedEventArgs e)
+        {
+            if (Keyboard.IsKeyDown(Key.LeftCtrl))
+                currentSt = new GroupStrategy(collection);
+            else
+                currentSt = new SelectStrategy(collection);
+        }
+
+        private void Button_Click_13(object sender, RoutedEventArgs e)
+        {
+            canvas.Children.Clear();
+            collection.Draw(canvas);
+        }
+
+
+        private void Grid_KeyDown(object sender, KeyEventArgs e)
+        {
+            if(Keyboard.IsKeyDown(Key.LeftCtrl) && Keyboard.IsKeyDown(Key.Z))
+            {
+                commandManager.undoCommand();
+            }
+
+            if (Keyboard.IsKeyDown(Key.LeftCtrl) && Keyboard.IsKeyDown(Key.Y))
+            {
+                commandManager.UndoUndoCommand();
+            }
+            if (selectedFigure!=null)
+            {
+                //selectedFigure = GetShapeUnderMouse(p1);
+            }
+        }
+
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
             IND = 1;
         }
 
     }
+    
+
+
 }

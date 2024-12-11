@@ -32,6 +32,10 @@ namespace paint
             get { return y; }
             set { y = value; }
         }
+        public override void Fill(Brush my)
+        {
+            circle.Fill = my;
+        }
         public override Shape GetFigure()
         {
             return circle;

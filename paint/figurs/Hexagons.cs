@@ -15,6 +15,11 @@ namespace paint
         Polygon hex;
         Point p1,p2,p3,p4,p5,p6;
         TextBlock text;
+        public override void Fill(Brush my)
+        {
+            hex.Fill = my;
+            FillBrush = my;
+        }
         public override Shape GetFigure()
         {
             return hex;
@@ -48,6 +53,7 @@ namespace paint
                 hex.Stroke = MyBrush;
                 hex.Width = hex.Points.Max(p => p.X) + th;
                 hex.Height = hex.Points.Max(p => p.Y) + th;
+                FillBrush = Brushes.Transparent;
                 Canvas.SetLeft(hex, 0);
                 Canvas.SetTop(hex, 0);
             }

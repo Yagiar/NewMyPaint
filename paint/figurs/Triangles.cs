@@ -56,11 +56,17 @@ namespace paint
                 t.Points.Add(p2);
                 t.Points.Add(p3);
                 t.StrokeThickness = th;
+                FillBrush = Brushes.Transparent; 
                 t.Stroke = MyBrush;
             }
             panel.Children.Add(t);
             return;
 
+        }
+        public override void Fill(Brush my)
+        {
+            t.Fill = my;
+            FillBrush = my;
         }
         public override void Rm(Canvas panel)
         {

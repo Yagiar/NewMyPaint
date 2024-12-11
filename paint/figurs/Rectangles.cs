@@ -15,6 +15,11 @@
             Polygon r;
             Point p1, p2, p3, p4;
             TextBlock text;
+            public override void Fill(Brush my)
+            {
+                r.Fill = my;
+                FillBrush = my;
+            }
             public override void Show(Canvas panel)
             {
                 if (r == null)
@@ -37,6 +42,7 @@
                     r.Points.Add(p3);
                     r.Points.Add(p4);
                     r.StrokeThickness = th; 
+                    FillBrush = Brushes.Transparent;
                     r.Stroke = MyBrush;
                 }
                 panel.Children.Add(r);

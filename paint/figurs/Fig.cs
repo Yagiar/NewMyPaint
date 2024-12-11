@@ -22,6 +22,7 @@ namespace paint
         internal SelectType select = SelectType.None;
         bool showOutline = false;
         public Rectangle outline;
+        public Brush FillBrush;
 
         public virtual void ShowOutline(Shape shape)
         {
@@ -60,6 +61,7 @@ namespace paint
                 my = fig.my;
                 select = fig.select;
                 outline = fig.outline;
+                FillBrush = fig.FillBrush;
             }
             else
                 _fig = this;
@@ -136,6 +138,11 @@ namespace paint
             return false;
         }
 
+        public virtual void Fill(Brush my)
+        {
+            _fig.Fill(my);
+            FillBrush = my;
+        }
         public Brush MyBrush
         {
             get { return my; }

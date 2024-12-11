@@ -23,6 +23,38 @@ namespace paint
             if (!figures.Contains(fig))
             {
                 figures.Add(fig);
+                //TransformGroup transformGroup = new TransformGroup();
+                //transformGroup.Children.Add(new TranslateTransform(Canvas.GetLeft(fig.GetFigure()), Canvas.GetTop(fig.GetFigure())));
+                //fig.GetFigure().RenderedGeometry.Transform = transformGroup;
+
+                //if (fig.GetFigure() is Polygon poly)
+                //{
+                //    for (int i = 0; i < poly.Points.Count(); i++)
+                //    {
+                //        Point p;
+                //        if (Canvas.GetLeft(outline) != poly.Points[i].X)
+                //        {
+                //            if (Canvas.GetTop(outline) != poly.Points[i].Y)
+                //            {
+                //                p = new Point(Canvas.GetLeft(poly) + poly.Points[i].X, Canvas.GetTop(poly) + poly.Points[i].Y);
+                //            }
+                //            else
+                //            {
+                //                p = new Point(Canvas.GetLeft(poly) + poly.Points[i].X, poly.Points[i].Y);
+                //            }
+                //        }
+                //        else
+                //        {
+                //            p = new Point(poly.Points[i].X, poly.Points[i].Y);
+                //        }
+                //        poly.Points[i] = p;
+                //    }
+                //    geometryGroup.Children.Add(poly.RenderedGeometry);
+                //}
+                //else
+                //{
+                //    geometryGroup.Children.Add(fig.GetFigure().RenderedGeometry);
+                //}
                 geometryGroup.Children.Add(fig.GetFigure().RenderedGeometry);
             }
         }
@@ -122,6 +154,13 @@ namespace paint
                 Canvas.SetLeft(outline, Left);
                 point1 = new Point(Left, Top);
                 point2 = new Point(Left + Width, Top + Height);
+            }
+        }
+        public override void Fill(Brush my)
+        {
+            foreach (Fig f in figures)
+            {
+                f.Fill(my);
             }
         }
         public override Shape GetFigure()

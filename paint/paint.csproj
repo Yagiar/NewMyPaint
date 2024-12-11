@@ -65,8 +65,10 @@
     <Compile Include="command\Command.cs" />
     <Compile Include="command\CommandManager.cs" />
     <Compile Include="command\CreateCommand.cs" />
+    <Compile Include="command\FillCommand.cs" />
     <Compile Include="command\MoveCommand.cs" />
     <Compile Include="command\ScaleCommand.cs" />
+    <Compile Include="Decorator\FillFigure.cs" />
     <Compile Include="Decorator\MoveFigure.cs" />
     <Compile Include="Decorator\ScaleFigure.cs" />
     <Compile Include="Factories\Factory.cs" />
@@ -83,6 +85,7 @@
     <Compile Include="figurs\Rectangles.cs" />
     <Compile Include="figurs\Triangles.cs" />
     <Compile Include="Strategy\CreateStrategy.cs" />
+    <Compile Include="Strategy\GroupStrategy.cs" />
     <Compile Include="Strategy\IStrategy.cs" />
     <Compile Include="Strategy\SelectStrategy.cs" />
     <Page Include="MainWindow.xaml">
