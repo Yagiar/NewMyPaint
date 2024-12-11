@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\createcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\command\\createcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\command\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\command\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|c:\\users\\shabu\\onedrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\figurs\\fig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\figurs\\fig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\movecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\command\\movecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\scalecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\command\\scalecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\Decorator\\ScaleFigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\Decorator\\ScaleFigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\Decorator\\MoveFigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\Decorator\\MoveFigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\groupecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\command\\groupecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\ungroupecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\command\\ungroupecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\figurs\\collectionfigures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\figurs\\collectionfigures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\figurs\\Rectangles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\figurs\\Rectangles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\fillcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\command\\fillcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\Decorator\\FillFigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\Decorator\\FillFigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\figurs\\Hexagons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\figurs\\Hexagons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\CollectionFig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\CollectionFig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\figurs\\Circles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\figurs\\Circles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\Factories\\FactoryRectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\Factories\\FactoryRectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\Factories\\FactoryHexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\Factories\\FactoryHexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScaleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\ScaleCommand.cs",
+              "RelativeDocumentMoniker": "paint\\command\\ScaleCommand.cs",
+              "ToolTip": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\ScaleCommand.cs",
+              "RelativeToolTip": "paint\\command\\ScaleCommand.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:40:07.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnGroupeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\UnGroupeCommand.cs",
+              "RelativeDocumentMoniker": "paint\\command\\UnGroupeCommand.cs",
+              "ToolTip": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\UnGroupeCommand.cs",
+              "RelativeToolTip": "paint\\command\\UnGroupeCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:07:48.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroupeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\GroupeCommand.cs",
+              "RelativeDocumentMoniker": "paint\\command\\GroupeCommand.cs",
+              "ToolTip": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\GroupeCommand.cs",
+              "RelativeToolTip": "paint\\command\\GroupeCommand.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwB4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:59:45.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoveCommand.cs",
+              "DocumentMoniker": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\MoveCommand.cs",
+              "RelativeDocumentMoniker": "paint\\command\\MoveCommand.cs",
+              "ToolTip": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\MoveCommand.cs",
+              "RelativeToolTip": "paint\\command\\MoveCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAEwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:11:01.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FillCommand.cs",
+              "DocumentMoniker": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\FillCommand.cs",
+              "RelativeDocumentMoniker": "paint\\command\\FillCommand.cs",
+              "ToolTip": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\FillCommand.cs",
+              "RelativeToolTip": "paint\\command\\FillCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:38:57.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\CreateCommand.cs",
+              "RelativeDocumentMoniker": "paint\\command\\CreateCommand.cs",
+              "ToolTip": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\CreateCommand.cs",
+              "RelativeToolTip": "paint\\command\\CreateCommand.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAEwBQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:50:42.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\Command.cs",
+              "RelativeDocumentMoniker": "paint\\command\\Command.cs",
+              "ToolTip": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\Command.cs",
+              "RelativeToolTip": "paint\\command\\Command.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:21:22.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommandManager.cs",
+              "DocumentMoniker": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\CommandManager.cs",
+              "RelativeDocumentMoniker": "paint\\command\\CommandManager.cs",
+              "ToolTip": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\command\\CommandManager.cs",
+              "RelativeToolTip": "paint\\command\\CommandManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:21:34.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "paint\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\MainWindow.xaml.cs",
+              "RelativeToolTip": "paint\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:04:02.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "paint\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\MainWindow.xaml",
+              "RelativeToolTip": "paint\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-05T15:04:03.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Circles.cs",
+              "DocumentMoniker": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\figurs\\Circles.cs",
+              "RelativeDocumentMoniker": "paint\\figurs\\Circles.cs",
+              "ToolTip": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\figurs\\Circles.cs",
+              "RelativeToolTip": "paint\\figurs\\Circles.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:04:03.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FillFigure.cs",
+              "DocumentMoniker": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\Decorator\\FillFigure.cs",
+              "RelativeDocumentMoniker": "paint\\Decorator\\FillFigure.cs",
+              "ToolTip": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\Decorator\\FillFigure.cs",
+              "RelativeToolTip": "paint\\Decorator\\FillFigure.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:38:19.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScaleFigure.cs",
+              "DocumentMoniker": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\Decorator\\ScaleFigure.cs",
+              "RelativeDocumentMoniker": "paint\\Decorator\\ScaleFigure.cs",
+              "ToolTip": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\Decorator\\ScaleFigure.cs",
+              "RelativeToolTip": "paint\\Decorator\\ScaleFigure.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowBsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T06:01:11.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FactoryRectangle.cs",
+              "DocumentMoniker": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\Factories\\FactoryRectangle.cs",
+              "RelativeDocumentMoniker": "paint\\Factories\\FactoryRectangle.cs",
+              "ToolTip": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\Factories\\FactoryRectangle.cs",
+              "RelativeToolTip": "paint\\Factories\\FactoryRectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:08:42.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FactoryHexagon.cs",
+              "DocumentMoniker": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\Factories\\FactoryHexagon.cs",
+              "RelativeDocumentMoniker": "paint\\Factories\\FactoryHexagon.cs",
+              "ToolTip": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\Factories\\FactoryHexagon.cs",
+              "RelativeToolTip": "paint\\Factories\\FactoryHexagon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:08:41.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Hexagons.cs",
+              "DocumentMoniker": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\figurs\\Hexagons.cs",
+              "RelativeDocumentMoniker": "paint\\figurs\\Hexagons.cs",
+              "ToolTip": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\figurs\\Hexagons.cs",
+              "RelativeToolTip": "paint\\figurs\\Hexagons.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:04:03.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fig.cs",
+              "DocumentMoniker": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\figurs\\Fig.cs",
+              "RelativeDocumentMoniker": "paint\\figurs\\Fig.cs",
+              "ToolTip": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\figurs\\Fig.cs",
+              "RelativeToolTip": "paint\\figurs\\Fig.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAEwKQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:04:03.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CollectionFigures.cs",
+              "DocumentMoniker": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\figurs\\CollectionFigures.cs",
+              "RelativeDocumentMoniker": "paint\\figurs\\CollectionFigures.cs",
+              "ToolTip": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\figurs\\CollectionFigures.cs",
+              "RelativeToolTip": "paint\\figurs\\CollectionFigures.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAEwDkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:59:24.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CollectionFig.cs",
+              "DocumentMoniker": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\CollectionFig.cs",
+              "RelativeDocumentMoniker": "paint\\CollectionFig.cs",
+              "ToolTip": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\CollectionFig.cs",
+              "RelativeToolTip": "paint\\CollectionFig.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAMwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:45:12.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Rectangles.cs",
+              "DocumentMoniker": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\figurs\\Rectangles.cs",
+              "RelativeDocumentMoniker": "paint\\figurs\\Rectangles.cs",
+              "ToolTip": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\figurs\\Rectangles.cs",
+              "RelativeToolTip": "paint\\figurs\\Rectangles.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAEwCoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:04:03.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MoveFigure.cs",
+              "DocumentMoniker": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\Decorator\\MoveFigure.cs",
+              "RelativeDocumentMoniker": "paint\\Decorator\\MoveFigure.cs",
+              "ToolTip": "C:\\Users\\shabu\\OneDrive\\\u0443\u0447\u0435\u0431\u0430\\paint\\paint\\Decorator\\MoveFigure.cs",
+              "RelativeToolTip": "paint\\Decorator\\MoveFigure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T06:04:31.101Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 800,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

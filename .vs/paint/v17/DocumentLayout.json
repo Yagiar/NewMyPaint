@@ -1,0 +1,418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|c:\\users\\otrix\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\figurs\\rectangles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\figurs\\rectangles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|c:\\users\\otrix\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\figurs\\hexagons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\figurs\\hexagons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|c:\\users\\otrix\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\factories\\factoryline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\factories\\factoryline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|c:\\users\\otrix\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\factories\\factoryrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\factories\\factoryrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|c:\\users\\otrix\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\factories\\factorytriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\factories\\factorytriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|c:\\users\\otrix\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\figurs\\triangles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\figurs\\triangles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|c:\\users\\otrix\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\figurs\\lines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\figurs\\lines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|c:\\users\\otrix\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\figurs\\circles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\figurs\\circles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|c:\\users\\otrix\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\figurs\\collectionfigures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\figurs\\collectionfigures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|c:\\users\\otrix\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\figurs\\fig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\figurs\\fig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|c:\\users\\otrix\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\factories\\factoryhexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\factories\\factoryhexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|c:\\users\\otrix\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|c:\\users\\otrix\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\decorator\\scalefigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\decorator\\scalefigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\strategy\\istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\strategy\\istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\collectionfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\collectionfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\adapter\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\adapter\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\adapter\\iimagesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\adapter\\iimagesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\adapter\\pngimagesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\adapter\\pngimagesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\adapter\\bmpimagesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\adapter\\bmpimagesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\command\\createcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\command\\createcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\command\\scalecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\command\\scalecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\strategy\\selectstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\strategy\\selectstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FactoryLine.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Factories\\FactoryLine.cs",
+              "RelativeDocumentMoniker": "paint\\Factories\\FactoryLine.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Factories\\FactoryLine.cs",
+              "RelativeToolTip": "paint\\Factories\\FactoryLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:37:54.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hexagons.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\figurs\\Hexagons.cs",
+              "RelativeDocumentMoniker": "paint\\figurs\\Hexagons.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\figurs\\Hexagons.cs*",
+              "RelativeToolTip": "paint\\figurs\\Hexagons.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAADgvxAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:37:32.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Circles.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\figurs\\Circles.cs",
+              "RelativeDocumentMoniker": "paint\\figurs\\Circles.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\figurs\\Circles.cs",
+              "RelativeToolTip": "paint\\figurs\\Circles.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:37:24.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CollectionFigures.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\figurs\\CollectionFigures.cs",
+              "RelativeDocumentMoniker": "paint\\figurs\\CollectionFigures.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\figurs\\CollectionFigures.cs",
+              "RelativeToolTip": "paint\\figurs\\CollectionFigures.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAH0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:37:09.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Fig.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\figurs\\Fig.cs",
+              "RelativeDocumentMoniker": "paint\\figurs\\Fig.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\figurs\\Fig.cs",
+              "RelativeToolTip": "paint\\figurs\\Fig.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:36:44.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Triangles.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\figurs\\Triangles.cs",
+              "RelativeDocumentMoniker": "paint\\figurs\\Triangles.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\figurs\\Triangles.cs",
+              "RelativeToolTip": "paint\\figurs\\Triangles.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:36:37.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "paint\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "paint\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAIcAAAAAAAAAAADgv44AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:06:45.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangles.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\figurs\\Rectangles.cs",
+              "RelativeDocumentMoniker": "paint\\figurs\\Rectangles.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\figurs\\Rectangles.cs*",
+              "RelativeToolTip": "paint\\figurs\\Rectangles.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAADgvxAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:36:30.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FactoryTriangle.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Factories\\FactoryTriangle.cs",
+              "RelativeDocumentMoniker": "paint\\Factories\\FactoryTriangle.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Factories\\FactoryTriangle.cs",
+              "RelativeToolTip": "paint\\Factories\\FactoryTriangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:37:52.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FactoryRectangle.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Factories\\FactoryRectangle.cs",
+              "RelativeDocumentMoniker": "paint\\Factories\\FactoryRectangle.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Factories\\FactoryRectangle.cs",
+              "RelativeToolTip": "paint\\Factories\\FactoryRectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:37:53.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FactoryHexagon.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Factories\\FactoryHexagon.cs",
+              "RelativeDocumentMoniker": "paint\\Factories\\FactoryHexagon.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Factories\\FactoryHexagon.cs",
+              "RelativeToolTip": "paint\\Factories\\FactoryHexagon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:36:34.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lines.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\figurs\\Lines.cs",
+              "RelativeDocumentMoniker": "paint\\figurs\\Lines.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\figurs\\Lines.cs",
+              "RelativeToolTip": "paint\\figurs\\Lines.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:36:27.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScaleFigure.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Decorator\\ScaleFigure.cs",
+              "RelativeDocumentMoniker": "paint\\Decorator\\ScaleFigure.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Decorator\\ScaleFigure.cs",
+              "RelativeToolTip": "paint\\Decorator\\ScaleFigure.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:27:17.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Location.cs",
+              "RelativeDocumentMoniker": "paint\\Location.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Location.cs",
+              "RelativeToolTip": "paint\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:04:18.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "paint\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\MainWindow.xaml",
+              "RelativeToolTip": "paint\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T10:56:15.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CollectionFig.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\CollectionFig.cs",
+              "RelativeDocumentMoniker": "paint\\CollectionFig.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\CollectionFig.cs",
+              "RelativeToolTip": "paint\\CollectionFig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:04:19.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IImageSaver.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Adapter\\IImageSaver.cs",
+              "RelativeDocumentMoniker": "paint\\Adapter\\IImageSaver.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Adapter\\IImageSaver.cs",
+              "RelativeToolTip": "paint\\Adapter\\IImageSaver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:02:55.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PngImageSaver.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Adapter\\PngImageSaver.cs",
+              "RelativeDocumentMoniker": "paint\\Adapter\\PngImageSaver.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Adapter\\PngImageSaver.cs",
+              "RelativeToolTip": "paint\\Adapter\\PngImageSaver.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:02:52.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Strategy\\IStrategy.cs",
+              "RelativeDocumentMoniker": "paint\\Strategy\\IStrategy.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Strategy\\IStrategy.cs",
+              "RelativeToolTip": "paint\\Strategy\\IStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:14:34.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BmpImageSaver.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Adapter\\BmpImageSaver.cs",
+              "RelativeDocumentMoniker": "paint\\Adapter\\BmpImageSaver.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Adapter\\BmpImageSaver.cs",
+              "RelativeToolTip": "paint\\Adapter\\BmpImageSaver.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:07:54.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Adapter\\SaveManager.cs",
+              "RelativeDocumentMoniker": "paint\\Adapter\\SaveManager.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Adapter\\SaveManager.cs",
+              "RelativeToolTip": "paint\\Adapter\\SaveManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:02:43.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SelectStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Strategy\\SelectStrategy.cs",
+              "RelativeDocumentMoniker": "paint\\Strategy\\SelectStrategy.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Strategy\\SelectStrategy.cs",
+              "RelativeToolTip": "paint\\Strategy\\SelectStrategy.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:36:49.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\command\\CreateCommand.cs",
+              "RelativeDocumentMoniker": "paint\\command\\CreateCommand.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\command\\CreateCommand.cs",
+              "RelativeToolTip": "paint\\command\\CreateCommand.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA+wB8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:50:42.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ScaleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\command\\ScaleCommand.cs",
+              "RelativeDocumentMoniker": "paint\\command\\ScaleCommand.cs",
+              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\command\\ScaleCommand.cs",
+              "RelativeToolTip": "paint\\command\\ScaleCommand.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:40:07.896Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

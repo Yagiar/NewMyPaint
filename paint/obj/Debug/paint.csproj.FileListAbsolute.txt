@@ -1,0 +1,185 @@
+C:\Users\shabu\OneDrive\Рабочий стол\Тест\paint\paint\obj\Debug\paint.csproj.SuggestedBindingRedirects.cache
+C:\Users\shabu\OneDrive\Рабочий стол\Тест\paint\paint\obj\Debug\MainWindow.g.cs
+C:\Users\shabu\OneDrive\Рабочий стол\Тест\paint\paint\obj\Debug\App.g.cs
+C:\Users\shabu\OneDrive\Рабочий стол\Тест\paint\paint\obj\Debug\paint_MarkupCompile.cache
+C:\Users\shabu\OneDrive\Рабочий стол\Тест\paint\paint\obj\Debug\paint_MarkupCompile.lref
+C:\Users\shabu\OneDrive\Рабочий стол\Тест\paint\paint\bin\Debug\paint.exe.config
+C:\Users\shabu\OneDrive\Рабочий стол\Тест\paint\paint\bin\Debug\paint.exe
+C:\Users\shabu\OneDrive\Рабочий стол\Тест\paint\paint\bin\Debug\paint.pdb
+C:\Users\shabu\OneDrive\Рабочий стол\Тест\paint\paint\obj\Debug\MainWindow.baml
+C:\Users\shabu\OneDrive\Рабочий стол\Тест\paint\paint\obj\Debug\paint.g.resources
+C:\Users\shabu\OneDrive\Рабочий стол\Тест\paint\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\shabu\OneDrive\Рабочий стол\Тест\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+C:\Users\shabu\OneDrive\Рабочий стол\Тест\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+C:\Users\shabu\OneDrive\Рабочий стол\Тест\paint\paint\obj\Debug\paint.exe
+C:\Users\shabu\OneDrive\Рабочий стол\Тест\paint\paint\obj\Debug\paint.pdb
+C:\Users\ShaAA.21\Desktop\проект\paint\paint\bin\Debug\paint.exe.config
+C:\Users\ShaAA.21\Desktop\проект\paint\paint\bin\Debug\paint.exe
+C:\Users\ShaAA.21\Desktop\проект\paint\paint\bin\Debug\paint.pdb
+C:\Users\ShaAA.21\Desktop\проект\paint\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+C:\Users\ShaAA.21\Desktop\проект\paint\paint\obj\Debug\MainWindow.g.cs
+C:\Users\ShaAA.21\Desktop\проект\paint\paint\obj\Debug\App.g.cs
+C:\Users\ShaAA.21\Desktop\проект\paint\paint\obj\Debug\paint_MarkupCompile.cache
+C:\Users\ShaAA.21\Desktop\проект\paint\paint\obj\Debug\paint_MarkupCompile.lref
+C:\Users\ShaAA.21\Desktop\проект\paint\paint\obj\Debug\MainWindow.baml
+C:\Users\ShaAA.21\Desktop\проект\paint\paint\obj\Debug\paint.g.resources
+C:\Users\ShaAA.21\Desktop\проект\paint\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\ShaAA.21\Desktop\проект\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+C:\Users\ShaAA.21\Desktop\проект\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+C:\Users\ShaAA.21\Desktop\проект\paint\paint\obj\Debug\paint.exe
+C:\Users\ShaAA.21\Desktop\проект\paint\paint\obj\Debug\paint.pdb
+E:\проект\paint\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+E:\проект\paint\paint\obj\Debug\paint.csproj.SuggestedBindingRedirects.cache
+E:\проект\paint\paint\obj\Debug\MainWindow.g.cs
+E:\проект\paint\paint\obj\Debug\App.g.cs
+E:\проект\paint\paint\obj\Debug\paint_MarkupCompile.cache
+E:\проект\paint\paint\obj\Debug\paint_MarkupCompile.lref
+E:\проект\paint\paint\obj\Debug\paint.exe
+E:\проект\paint\paint\obj\Debug\paint.pdb
+E:\проект\paint\paint\bin\Debug\paint.exe.config
+E:\проект\paint\paint\bin\Debug\paint.exe
+E:\проект\paint\paint\bin\Debug\paint.pdb
+E:\проект\paint\paint\obj\Debug\MainWindow.baml
+E:\проект\paint\paint\obj\Debug\paint.g.resources
+E:\проект\paint\paint\obj\Debug\paint.Properties.Resources.resources
+E:\проект\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+E:\проект\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+D:\проект\paint\paint\bin\Debug\paint.exe.config
+D:\проект\paint\paint\bin\Debug\paint.exe
+D:\проект\paint\paint\bin\Debug\paint.pdb
+D:\проект\paint\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+D:\проект\paint\paint\obj\Debug\paint.csproj.SuggestedBindingRedirects.cache
+D:\проект\paint\paint\obj\Debug\MainWindow.g.cs
+D:\проект\paint\paint\obj\Debug\App.g.cs
+D:\проект\paint\paint\obj\Debug\paint_MarkupCompile.cache
+D:\проект\paint\paint\obj\Debug\paint_MarkupCompile.lref
+D:\проект\paint\paint\obj\Debug\MainWindow.baml
+D:\проект\paint\paint\obj\Debug\paint.g.resources
+D:\проект\paint\paint\obj\Debug\paint.Properties.Resources.resources
+D:\проект\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+D:\проект\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+D:\проект\paint\paint\obj\Debug\paint.exe
+D:\проект\paint\paint\obj\Debug\paint.pdb
+C:\Users\shabu\OneDrive\Рабочий стол\Тест\paint\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+C:\Users\shabu\OneDrive\Рабочий стол\ооп\paint\paint\bin\Debug\paint.exe.config
+C:\Users\shabu\OneDrive\Рабочий стол\ооп\paint\paint\bin\Debug\paint.exe
+C:\Users\shabu\OneDrive\Рабочий стол\ооп\paint\paint\bin\Debug\paint.pdb
+C:\Users\shabu\OneDrive\Рабочий стол\ооп\paint\paint\obj\Debug\paint.csproj.SuggestedBindingRedirects.cache
+C:\Users\shabu\OneDrive\Рабочий стол\ооп\paint\paint\obj\Debug\MainWindow.g.cs
+C:\Users\shabu\OneDrive\Рабочий стол\ооп\paint\paint\obj\Debug\App.g.cs
+C:\Users\shabu\OneDrive\Рабочий стол\ооп\paint\paint\obj\Debug\paint_MarkupCompile.cache
+C:\Users\shabu\OneDrive\Рабочий стол\ооп\paint\paint\obj\Debug\paint_MarkupCompile.lref
+C:\Users\shabu\OneDrive\Рабочий стол\ооп\paint\paint\obj\Debug\MainWindow.baml
+C:\Users\shabu\OneDrive\Рабочий стол\ооп\paint\paint\obj\Debug\paint.g.resources
+C:\Users\shabu\OneDrive\Рабочий стол\ооп\paint\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\shabu\OneDrive\Рабочий стол\ооп\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+C:\Users\shabu\OneDrive\Рабочий стол\ооп\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+C:\Users\shabu\OneDrive\Рабочий стол\ооп\paint\paint\obj\Debug\paint.exe
+C:\Users\shabu\OneDrive\Рабочий стол\ооп\paint\paint\obj\Debug\paint.pdb
+C:\Users\shabu\OneDrive\Рабочий стол\ооп\paint\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+C:\Users\shaaa.21.FREE.001\Desktop\ооп\paint\paint\bin\Debug\paint.exe.config
+C:\Users\shaaa.21.FREE.001\Desktop\ооп\paint\paint\bin\Debug\paint.exe
+C:\Users\shaaa.21.FREE.001\Desktop\ооп\paint\paint\bin\Debug\paint.pdb
+C:\Users\shaaa.21.FREE.001\Desktop\ооп\paint\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+C:\Users\shaaa.21.FREE.001\Desktop\ооп\paint\paint\obj\Debug\MainWindow.g.cs
+C:\Users\shaaa.21.FREE.001\Desktop\ооп\paint\paint\obj\Debug\App.g.cs
+C:\Users\shaaa.21.FREE.001\Desktop\ооп\paint\paint\obj\Debug\paint_MarkupCompile.cache
+C:\Users\shaaa.21.FREE.001\Desktop\ооп\paint\paint\obj\Debug\paint_MarkupCompile.lref
+C:\Users\shaaa.21.FREE.001\Desktop\ооп\paint\paint\obj\Debug\MainWindow.baml
+C:\Users\shaaa.21.FREE.001\Desktop\ооп\paint\paint\obj\Debug\paint.g.resources
+C:\Users\shaaa.21.FREE.001\Desktop\ооп\paint\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\shaaa.21.FREE.001\Desktop\ооп\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+C:\Users\shaaa.21.FREE.001\Desktop\ооп\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+C:\Users\shaaa.21.FREE.001\Desktop\ооп\paint\paint\obj\Debug\paint.exe
+C:\Users\shaaa.21.FREE.001\Desktop\ооп\paint\paint\obj\Debug\paint.pdb
+C:\Users\shabu\OneDrive\учеба\флешка\учеба\ооп\paint\paint\bin\Debug\paint.exe.config
+C:\Users\shabu\OneDrive\учеба\флешка\учеба\ооп\paint\paint\bin\Debug\paint.exe
+C:\Users\shabu\OneDrive\учеба\флешка\учеба\ооп\paint\paint\bin\Debug\paint.pdb
+C:\Users\shabu\OneDrive\учеба\флешка\учеба\ооп\paint\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+C:\Users\shabu\OneDrive\учеба\флешка\учеба\ооп\paint\paint\obj\Debug\MainWindow.g.cs
+C:\Users\shabu\OneDrive\учеба\флешка\учеба\ооп\paint\paint\obj\Debug\App.g.cs
+C:\Users\shabu\OneDrive\учеба\флешка\учеба\ооп\paint\paint\obj\Debug\paint_MarkupCompile.cache
+C:\Users\shabu\OneDrive\учеба\флешка\учеба\ооп\paint\paint\obj\Debug\paint_MarkupCompile.lref
+C:\Users\shabu\OneDrive\учеба\флешка\учеба\ооп\paint\paint\obj\Debug\MainWindow.baml
+C:\Users\shabu\OneDrive\учеба\флешка\учеба\ооп\paint\paint\obj\Debug\paint.g.resources
+C:\Users\shabu\OneDrive\учеба\флешка\учеба\ооп\paint\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\shabu\OneDrive\учеба\флешка\учеба\ооп\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+C:\Users\shabu\OneDrive\учеба\флешка\учеба\ооп\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+C:\Users\shabu\OneDrive\учеба\флешка\учеба\ооп\paint\paint\obj\Debug\paint.exe
+C:\Users\shabu\OneDrive\учеба\флешка\учеба\ооп\paint\paint\obj\Debug\paint.pdb
+C:\Users\shabu\Desktop\Паттерны\paint\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+C:\Users\shabu\Desktop\Паттерны\paint\paint\obj\Debug\MainWindow.g.cs
+C:\Users\shabu\Desktop\Паттерны\paint\paint\obj\Debug\App.g.cs
+C:\Users\shabu\Desktop\Паттерны\paint\paint\obj\Debug\paint_MarkupCompile.cache
+C:\Users\shabu\Desktop\Паттерны\paint\paint\obj\Debug\paint_MarkupCompile.lref
+C:\Users\shabu\Desktop\Паттерны\paint\paint\bin\Debug\paint.exe.config
+C:\Users\shabu\Desktop\Паттерны\paint\paint\bin\Debug\paint.exe
+C:\Users\shabu\Desktop\Паттерны\paint\paint\bin\Debug\paint.pdb
+C:\Users\shabu\Desktop\Паттерны\paint\paint\obj\Debug\MainWindow.baml
+C:\Users\shabu\Desktop\Паттерны\paint\paint\obj\Debug\paint.g.resources
+C:\Users\shabu\Desktop\Паттерны\paint\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\shabu\Desktop\Паттерны\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+C:\Users\shabu\Desktop\Паттерны\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+C:\Users\shabu\Desktop\Паттерны\paint\paint\obj\Debug\paint.exe
+C:\Users\shabu\Desktop\Паттерны\paint\paint\obj\Debug\paint.pdb
+C:\Users\shabu\Desktop\paint\paint\paint\paint\bin\Debug\paint.exe.config
+C:\Users\shabu\Desktop\paint\paint\paint\paint\bin\Debug\paint.exe
+C:\Users\shabu\Desktop\paint\paint\paint\paint\bin\Debug\paint.pdb
+C:\Users\shabu\Desktop\paint\paint\paint\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+C:\Users\shabu\Desktop\paint\paint\paint\paint\obj\Debug\paint.csproj.SuggestedBindingRedirects.cache
+C:\Users\shabu\Desktop\paint\paint\paint\paint\obj\Debug\MainWindow.g.cs
+C:\Users\shabu\Desktop\paint\paint\paint\paint\obj\Debug\App.g.cs
+C:\Users\shabu\Desktop\paint\paint\paint\paint\obj\Debug\paint_MarkupCompile.cache
+C:\Users\shabu\Desktop\paint\paint\paint\paint\obj\Debug\paint_MarkupCompile.lref
+C:\Users\shabu\Desktop\paint\paint\paint\paint\obj\Debug\MainWindow.baml
+C:\Users\shabu\Desktop\paint\paint\paint\paint\obj\Debug\paint.g.resources
+C:\Users\shabu\Desktop\paint\paint\paint\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\shabu\Desktop\paint\paint\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+C:\Users\shabu\Desktop\paint\paint\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+C:\Users\shabu\Desktop\paint\paint\paint\paint\obj\Debug\paint.exe
+C:\Users\shabu\Desktop\paint\paint\paint\paint\obj\Debug\paint.pdb
+C:\Users\shabu\Downloads\Telegram Desktop\paint\paint\paint\paint\bin\Debug\paint.exe.config
+C:\Users\shabu\Downloads\Telegram Desktop\paint\paint\paint\paint\bin\Debug\paint.exe
+C:\Users\shabu\Downloads\Telegram Desktop\paint\paint\paint\paint\bin\Debug\paint.pdb
+C:\Users\shabu\Downloads\Telegram Desktop\paint\paint\paint\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+C:\Users\shabu\Downloads\Telegram Desktop\paint\paint\paint\paint\obj\Debug\MainWindow.g.cs
+C:\Users\shabu\Downloads\Telegram Desktop\paint\paint\paint\paint\obj\Debug\App.g.cs
+C:\Users\shabu\Downloads\Telegram Desktop\paint\paint\paint\paint\obj\Debug\paint_MarkupCompile.cache
+C:\Users\shabu\Downloads\Telegram Desktop\paint\paint\paint\paint\obj\Debug\paint_MarkupCompile.lref
+C:\Users\shabu\Downloads\Telegram Desktop\paint\paint\paint\paint\obj\Debug\MainWindow.baml
+C:\Users\shabu\Downloads\Telegram Desktop\paint\paint\paint\paint\obj\Debug\paint.g.resources
+C:\Users\shabu\Downloads\Telegram Desktop\paint\paint\paint\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\shabu\Downloads\Telegram Desktop\paint\paint\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+C:\Users\shabu\Downloads\Telegram Desktop\paint\paint\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+C:\Users\shabu\Downloads\Telegram Desktop\paint\paint\paint\paint\obj\Debug\paint.exe
+C:\Users\shabu\Downloads\Telegram Desktop\paint\paint\paint\paint\obj\Debug\paint.pdb
+C:\Users\shabu\OneDrive\учеба\paint\paint\bin\Debug\paint.exe.config
+C:\Users\shabu\OneDrive\учеба\paint\paint\bin\Debug\paint.exe
+C:\Users\shabu\OneDrive\учеба\paint\paint\bin\Debug\paint.pdb
+C:\Users\shabu\OneDrive\учеба\paint\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+C:\Users\shabu\OneDrive\учеба\paint\paint\obj\Debug\MainWindow.g.cs
+C:\Users\shabu\OneDrive\учеба\paint\paint\obj\Debug\App.g.cs
+C:\Users\shabu\OneDrive\учеба\paint\paint\obj\Debug\paint_MarkupCompile.cache
+C:\Users\shabu\OneDrive\учеба\paint\paint\obj\Debug\paint_MarkupCompile.lref
+C:\Users\shabu\OneDrive\учеба\paint\paint\obj\Debug\MainWindow.baml
+C:\Users\shabu\OneDrive\учеба\paint\paint\obj\Debug\paint.g.resources
+C:\Users\shabu\OneDrive\учеба\paint\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\shabu\OneDrive\учеба\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+C:\Users\shabu\OneDrive\учеба\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+C:\Users\shabu\OneDrive\учеба\paint\paint\obj\Debug\paint.exe
+C:\Users\shabu\OneDrive\учеба\paint\paint\obj\Debug\paint.pdb
+C:\Users\otrix\OneDrive\Рабочий стол\paint\paint\bin\Debug\paint.exe.config
+C:\Users\otrix\OneDrive\Рабочий стол\paint\paint\bin\Debug\paint.exe
+C:\Users\otrix\OneDrive\Рабочий стол\paint\paint\bin\Debug\paint.pdb
+C:\Users\otrix\OneDrive\Рабочий стол\paint\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+C:\Users\otrix\OneDrive\Рабочий стол\paint\paint\obj\Debug\MainWindow.g.cs
+C:\Users\otrix\OneDrive\Рабочий стол\paint\paint\obj\Debug\App.g.cs
+C:\Users\otrix\OneDrive\Рабочий стол\paint\paint\obj\Debug\paint_MarkupCompile.cache
+C:\Users\otrix\OneDrive\Рабочий стол\paint\paint\obj\Debug\paint_MarkupCompile.lref
+C:\Users\otrix\OneDrive\Рабочий стол\paint\paint\obj\Debug\MainWindow.baml
+C:\Users\otrix\OneDrive\Рабочий стол\paint\paint\obj\Debug\paint.g.resources
+C:\Users\otrix\OneDrive\Рабочий стол\paint\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\otrix\OneDrive\Рабочий стол\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+C:\Users\otrix\OneDrive\Рабочий стол\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+C:\Users\otrix\OneDrive\Рабочий стол\paint\paint\obj\Debug\paint.exe
+C:\Users\otrix\OneDrive\Рабочий стол\paint\paint\obj\Debug\paint.pdb
