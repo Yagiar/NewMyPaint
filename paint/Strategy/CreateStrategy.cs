@@ -20,17 +20,18 @@ namespace paint
         internal Factory _factory;
         internal Point _start;
         internal Fig _currentFigure;
-
-        public CreateStrategy(CollectionFig collection, Factory factory)
+        private MainWindow window;
+        public CreateStrategy(CollectionFig collection, Factory factory, MainWindow window)
         {
             _collection = collection;
             _factory = factory;
+            this.window = window;
         }
 
         public void MouseDown(MouseEventArgs e)
         {
             // Начало создания фигуры
-            _start = e.GetPosition(((MainWindow)Application.Current.MainWindow).canvas);
+            _start = e.GetPosition(window.canvas);
             _currentFigure = _factory.GetShape();
             _currentFigure.point1 = _start;
         }
@@ -40,30 +41,27 @@ namespace paint
             if (e.LeftButton == MouseButtonState.Pressed)
             {
                 // Обновляем конечную точку фигуры
-                var end = e.GetPosition(((MainWindow)Application.Current.MainWindow).canvas);
+                var end = e.GetPosition(window.canvas);
                 _currentFigure.point2 = end;
 
-                // Обновляем отображение на канвасе
-                var mainWindow = (MainWindow)Application.Current.MainWindow;
-                mainWindow.canvas.Children.Clear();
-                _collection.Draw(mainWindow.canvas);
-                _currentFigure.Show(mainWindow.canvas);
+                window.canvas.Children.Clear();
+                _collection.Draw(window.canvas);
+                _currentFigure.Show(window.canvas);
             }
         }
 
         public void MouseUp(MouseEventArgs e,int T, Brush my)
         {
             // Завершаем создание фигуры
-            var end = e.GetPosition(((MainWindow)Application.Current.MainWindow).canvas);
+            var end = e.GetPosition(window.canvas);
             _currentFigure.point2 = end;
 
             // Обновляем канвас
-            var mainWindow = (MainWindow)Application.Current.MainWindow;
             var createCommand = new CreateCommand();
-            createCommand.create(mainWindow.canvas, _collection, _factory, _start, end, T, my);
-            ((MainWindow)Application.Current.MainWindow).commandManager.ExecuteCommand(createCommand);
-            mainWindow.canvas.Children.Clear();
-            _collection.Draw(mainWindow.canvas);
+            createCommand.create(window.canvas, _collection, _factory, _start, end, T, my);
+            window.commandManager.ExecuteCommand(createCommand);
+            window.canvas.Children.Clear();
+            _collection.Draw(window.canvas);
 
             // Сбрасываем временную фигуру
             _currentFigure = null;

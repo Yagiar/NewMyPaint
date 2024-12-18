@@ -14,28 +14,29 @@ namespace paint.Strategy
     {
         private readonly CollectionFig _collection;
         private Point _start;
-
-        public GroupStrategy(CollectionFig collection)
+        private MainWindow window;
+        public GroupStrategy(CollectionFig collection, MainWindow window)
         {
             _collection = collection;
+            this.window = window;
         }
 
         public void MouseDown(MouseEventArgs e)
         {
-            Point clickPoint = e.GetPosition(((MainWindow)Application.Current.MainWindow).canvas);
+            Point clickPoint = e.GetPosition(window.canvas);
             foreach (Fig figure in _collection.collection)
             {
                 figure.updateOutline();
                 figure.ShowOutline(figure.GetFigure());
                 if (figure.Touch((int)clickPoint.X, (int)clickPoint.Y))
                 {
-                    ((MainWindow)Application.Current.MainWindow).selectedFigure.Add(figure);
-                    if(!((MainWindow)Application.Current.MainWindow).canvas.Children.Equals(figure.outline))
-                        ((MainWindow)Application.Current.MainWindow).canvas.Children.Add(figure.outline);
+                    window.selectedFigure.Add(figure);
+                    if(!window.canvas.Children.Equals(figure.outline))
+                        window.canvas.Children.Add(figure.outline);
                     return;
                 }
             }
-            _collection.Draw(((MainWindow)Application.Current.MainWindow).canvas);
+            _collection.Draw(window.canvas);
         }
         public void MouseMove(MouseEventArgs e) { }
         public void MouseUp(MouseEventArgs e, int T, Brush my) { }

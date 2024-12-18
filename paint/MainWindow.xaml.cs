@@ -184,27 +184,27 @@ namespace paint
 
         private void Button_Click_5(object sender, RoutedEventArgs e)
         {
-            currentSt = new CreateStrategy(collection, new FactoryLine());
+            currentSt = new CreateStrategy(collection, new FactoryLine(), this);
         }
 
         private void Button_Click_6(object sender, RoutedEventArgs e)
         {
-            currentSt = new CreateStrategy(collection, new FactoryCircle());
+            currentSt = new CreateStrategy(collection, new FactoryCircle(), this);
         }
 
         private void Button_Click_7(object sender, RoutedEventArgs e)
         {
-            currentSt = new CreateStrategy(collection, new FactoryRectangle());
+            currentSt = new CreateStrategy(collection, new FactoryRectangle(), this);
         }
 
         private void Button_Click_8(object sender, RoutedEventArgs e)
         {
-            currentSt = new CreateStrategy(collection, new FactoryTriangle());
+            currentSt = new CreateStrategy(collection, new FactoryTriangle(), this);
         }
 
         private void Button_Click_9(object sender, RoutedEventArgs e)
         {
-            currentSt = new CreateStrategy(collection, new FactoryHexagon());
+            currentSt = new CreateStrategy(collection, new FactoryHexagon(), this);
         }
 
         private void TH_KeyUp(object sender, KeyEventArgs e)
@@ -260,9 +260,9 @@ namespace paint
         private void Button_Click_12(object sender, RoutedEventArgs e)
         {
             if (Keyboard.IsKeyDown(Key.LeftCtrl))
-                currentSt = new GroupStrategy(collection);
+                currentSt = new GroupStrategy(collection, this);
             else
-                currentSt = new SelectStrategy(collection);
+                currentSt = new SelectStrategy(collection, this);
         }
 
         private void Button_Click_13(object sender, RoutedEventArgs e)

@@ -183,3 +183,18 @@ C:\Users\otrix\OneDrive\Рабочий стол\paint\paint\obj\Debug\paint.cspr
 C:\Users\otrix\OneDrive\Рабочий стол\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
 C:\Users\otrix\OneDrive\Рабочий стол\paint\paint\obj\Debug\paint.exe
 C:\Users\otrix\OneDrive\Рабочий стол\paint\paint\obj\Debug\paint.pdb
+D:\NewMyPaint\paint\bin\Debug\paint.exe.config
+D:\NewMyPaint\paint\bin\Debug\paint.exe
+D:\NewMyPaint\paint\bin\Debug\paint.pdb
+D:\NewMyPaint\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+D:\NewMyPaint\paint\obj\Debug\MainWindow.g.cs
+D:\NewMyPaint\paint\obj\Debug\App.g.cs
+D:\NewMyPaint\paint\obj\Debug\paint_MarkupCompile.cache
+D:\NewMyPaint\paint\obj\Debug\paint_MarkupCompile.lref
+D:\NewMyPaint\paint\obj\Debug\MainWindow.baml
+D:\NewMyPaint\paint\obj\Debug\paint.g.resources
+D:\NewMyPaint\paint\obj\Debug\paint.Properties.Resources.resources
+D:\NewMyPaint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+D:\NewMyPaint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+D:\NewMyPaint\paint\obj\Debug\paint.exe
+D:\NewMyPaint\paint\obj\Debug\paint.pdb

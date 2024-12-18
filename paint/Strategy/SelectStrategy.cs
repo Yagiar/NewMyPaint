@@ -18,17 +18,18 @@ namespace paint.Strategy
     {
         private readonly CollectionFig _collection;
         private Point _start;
-
-        public SelectStrategy(CollectionFig collection)
+        private MainWindow window;
+        public SelectStrategy(CollectionFig collection, MainWindow window)
         {
             _collection = collection;
+            this.window = window;
         }
 
         public void MouseDown(MouseEventArgs e)
         {
-            Point clickPoint = e.GetPosition(((MainWindow)Application.Current.MainWindow).canvas);
-            ((MainWindow)Application.Current.MainWindow).selectedFigure.Clear();
-            ((MainWindow)Application.Current.MainWindow).canvas.Children.Clear();
+            Point clickPoint = e.GetPosition(window.canvas);
+            window.selectedFigure.Clear();
+            window.canvas.Children.Clear();
             foreach (Fig figure in _collection.collection)
             {
                 figure.updateOutline();
@@ -36,7 +37,7 @@ namespace paint.Strategy
                 if (figure.Touch((int)clickPoint.X, (int)clickPoint.Y))
                 {
                     _start = clickPoint;
-                    ((MainWindow)Application.Current.MainWindow).selectedFigure.Add(figure);
+                    window.selectedFigure.Add(figure);
                     ((MainWindow)Application.Current.MainWindow).canvas.Children.Add(figure.outline);
                     break;
                 }
@@ -48,36 +49,36 @@ namespace paint.Strategy
         {
             if (e.LeftButton == MouseButtonState.Pressed)
             {
-                Point currPos = e.GetPosition(((MainWindow)Application.Current.MainWindow).canvas);
-                foreach (Fig figure in ((MainWindow)Application.Current.MainWindow).selectedFigure)
-                {
-                    ((MainWindow)Application.Current.MainWindow).canvas.Children.Clear();
+                Point currPos = e.GetPosition(window.canvas);
+                foreach (Fig figure in window.selectedFigure)
+                {   
+                    window.canvas.Children.Clear();
                     if (figure.select==Fig.SelectType.Center)
                     {
                         MoveCommand command = new MoveCommand();
-                        command.move(((MainWindow)Application.Current.MainWindow).canvas, figure, _collection, new Point(currPos.X - _start.X, currPos.Y - _start.Y));
-                        ((MainWindow)Application.Current.MainWindow).commandManager.ExecuteCommand(command);
+                        command.move(window.canvas, figure, _collection, new Point(currPos.X - _start.X, currPos.Y - _start.Y));
+                        window.commandManager.ExecuteCommand(command);
                         
                     }
                     else
                     {
                         ScaleCommand command = new ScaleCommand();
-                        command.move(((MainWindow)Application.Current.MainWindow).canvas, figure, _collection, new Point(currPos.X - _start.X, currPos.Y - _start.Y));
-                        ((MainWindow)Application.Current.MainWindow).commandManager.ExecuteCommand(command);
+                        command.move(window.canvas, figure, _collection, new Point(currPos.X - _start.X, currPos.Y - _start.Y));
+                        window.commandManager.ExecuteCommand(command);
                     }
                     figure.updateOutline();
                     figure.ShowOutline(figure.GetFigure());
-                    ((MainWindow)Application.Current.MainWindow).canvas.Children.Add(figure.outline);
+                    window.canvas.Children.Add(figure.outline);
                 }
-                _collection.Draw(((MainWindow)Application.Current.MainWindow).canvas);
+                _collection.Draw(window.canvas);
                 _start = currPos;
             }
         }
         public void MouseUp(MouseEventArgs e,int T, Brush my)
         {
-            Point _end = e.GetPosition(((MainWindow)Application.Current.MainWindow).canvas);
-            ((MainWindow)Application.Current.MainWindow).canvas.Children.Clear();
-            _collection.Draw(((MainWindow)Application.Current.MainWindow).canvas);
+            Point _end = e.GetPosition(window.canvas);
+            window.canvas.Children.Clear();
+            _collection.Draw(window.canvas);
         }
     }
 }

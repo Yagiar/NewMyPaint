@@ -1,50 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\",
+  "WorkspaceRootPath": "D:\\NewMyPaint\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|c:\\users\\otrix\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|D:\\NewMyPaint\\paint\\strategy\\istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\strategy\\istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|c:\\users\\otrix\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\adapter\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\adapter\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\adapter\\iimagesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\adapter\\iimagesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\adapter\\pngimagesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\adapter\\pngimagesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\adapter\\bmpimagesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\adapter\\bmpimagesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\command\\createcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\command\\createcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\strategy\\createstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\strategy\\createstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\command\\scalecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\command\\scalecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\strategy\\selectstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|D:\\NewMyPaint\\paint\\strategy\\selectstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\strategy\\selectstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\strategy\\istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\strategy\\istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|d:\\newmypaint\\paint\\strategy\\groupstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\strategy\\groupstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|D:\\NewMyPaint\\paint\\strategy\\createstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\strategy\\createstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|d:\\newmypaint\\paint\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|d:\\newmypaint\\paint\\decorator\\scalefigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\decorator\\scalefigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|d:\\newmypaint\\paint\\decorator\\movefigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\decorator\\movefigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|d:\\newmypaint\\paint\\decorator\\fillfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\decorator\\fillfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|D:\\NewMyPaint\\paint\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|D:\\NewMyPaint\\paint\\adapter\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\adapter\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|D:\\NewMyPaint\\paint\\adapter\\iimagesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\adapter\\iimagesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|D:\\NewMyPaint\\paint\\adapter\\pngimagesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\adapter\\pngimagesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|D:\\NewMyPaint\\paint\\adapter\\bmpimagesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\adapter\\bmpimagesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|D:\\NewMyPaint\\paint\\command\\createcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\command\\createcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|D:\\NewMyPaint\\paint\\command\\scalecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA831B-280E-49ED-BA4E-F7EBDE0693E0}|paint\\paint.csproj|solutionrelative:paint\\command\\scalecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,27 +70,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 225,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "paint\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\MainWindow.xaml",
-              "RelativeToolTip": "paint\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-11T19:06:39.046Z",
+              "DocumentIndex": 5,
+              "Title": "ScaleFigure.cs",
+              "DocumentMoniker": "D:\\NewMyPaint\\paint\\Decorator\\ScaleFigure.cs",
+              "RelativeDocumentMoniker": "paint\\Decorator\\ScaleFigure.cs",
+              "ToolTip": "D:\\NewMyPaint\\paint\\Decorator\\ScaleFigure.cs*",
+              "RelativeToolTip": "paint\\Decorator\\ScaleFigure.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:57:11.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "MoveFigure.cs",
+              "DocumentMoniker": "D:\\NewMyPaint\\paint\\Decorator\\MoveFigure.cs",
+              "RelativeDocumentMoniker": "paint\\Decorator\\MoveFigure.cs",
+              "ToolTip": "D:\\NewMyPaint\\paint\\Decorator\\MoveFigure.cs*",
+              "RelativeToolTip": "paint\\Decorator\\MoveFigure.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:57:09.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupStrategy.cs",
+              "DocumentMoniker": "D:\\NewMyPaint\\paint\\Strategy\\GroupStrategy.cs",
+              "RelativeDocumentMoniker": "paint\\Strategy\\GroupStrategy.cs",
+              "ToolTip": "D:\\NewMyPaint\\paint\\Strategy\\GroupStrategy.cs*",
+              "RelativeToolTip": "paint\\Strategy\\GroupStrategy.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:55:55.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\NewMyPaint\\paint\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "paint\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\NewMyPaint\\paint\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "paint\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgBAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:06:45.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStrategy.cs",
+              "DocumentMoniker": "D:\\NewMyPaint\\paint\\Strategy\\IStrategy.cs",
+              "RelativeDocumentMoniker": "paint\\Strategy\\IStrategy.cs",
+              "ToolTip": "D:\\NewMyPaint\\paint\\Strategy\\IStrategy.cs",
+              "RelativeToolTip": "paint\\Strategy\\IStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:14:34.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SelectStrategy.cs",
+              "DocumentMoniker": "D:\\NewMyPaint\\paint\\Strategy\\SelectStrategy.cs",
+              "RelativeDocumentMoniker": "paint\\Strategy\\SelectStrategy.cs",
+              "ToolTip": "D:\\NewMyPaint\\paint\\Strategy\\SelectStrategy.cs",
+              "RelativeToolTip": "paint\\Strategy\\SelectStrategy.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwFAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:36:49.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateStrategy.cs",
+              "DocumentMoniker": "D:\\NewMyPaint\\paint\\Strategy\\CreateStrategy.cs",
+              "RelativeDocumentMoniker": "paint\\Strategy\\CreateStrategy.cs",
+              "ToolTip": "D:\\NewMyPaint\\paint\\Strategy\\CreateStrategy.cs",
+              "RelativeToolTip": "paint\\Strategy\\CreateStrategy.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:14:54.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FillFigure.cs",
+              "DocumentMoniker": "D:\\NewMyPaint\\paint\\Decorator\\FillFigure.cs",
+              "RelativeDocumentMoniker": "paint\\Decorator\\FillFigure.cs",
+              "ToolTip": "D:\\NewMyPaint\\paint\\Decorator\\FillFigure.cs*",
+              "RelativeToolTip": "paint\\Decorator\\FillFigure.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:56:28.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "BmpImageSaver.cs",
-              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Adapter\\BmpImageSaver.cs",
+              "DocumentMoniker": "D:\\NewMyPaint\\paint\\Adapter\\BmpImageSaver.cs",
               "RelativeDocumentMoniker": "paint\\Adapter\\BmpImageSaver.cs",
-              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Adapter\\BmpImageSaver.cs",
+              "ToolTip": "D:\\NewMyPaint\\paint\\Adapter\\BmpImageSaver.cs",
               "RelativeToolTip": "paint\\Adapter\\BmpImageSaver.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -82,24 +190,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "paint\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\MainWindow.xaml.cs",
-              "RelativeToolTip": "paint\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowBABAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T10:06:45.366Z",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\NewMyPaint\\paint\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "paint\\MainWindow.xaml",
+              "ToolTip": "D:\\NewMyPaint\\paint\\MainWindow.xaml",
+              "RelativeToolTip": "paint\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T19:06:39.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "IImageSaver.cs",
-              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Adapter\\IImageSaver.cs",
+              "DocumentMoniker": "D:\\NewMyPaint\\paint\\Adapter\\IImageSaver.cs",
               "RelativeDocumentMoniker": "paint\\Adapter\\IImageSaver.cs",
-              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Adapter\\IImageSaver.cs",
+              "ToolTip": "D:\\NewMyPaint\\paint\\Adapter\\IImageSaver.cs",
               "RelativeToolTip": "paint\\Adapter\\IImageSaver.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,11 +214,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "PngImageSaver.cs",
-              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Adapter\\PngImageSaver.cs",
+              "DocumentMoniker": "D:\\NewMyPaint\\paint\\Adapter\\PngImageSaver.cs",
               "RelativeDocumentMoniker": "paint\\Adapter\\PngImageSaver.cs",
-              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Adapter\\PngImageSaver.cs",
+              "ToolTip": "D:\\NewMyPaint\\paint\\Adapter\\PngImageSaver.cs",
               "RelativeToolTip": "paint\\Adapter\\PngImageSaver.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,11 +226,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "SaveManager.cs",
-              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Adapter\\SaveManager.cs",
+              "DocumentMoniker": "D:\\NewMyPaint\\paint\\Adapter\\SaveManager.cs",
               "RelativeDocumentMoniker": "paint\\Adapter\\SaveManager.cs",
-              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Adapter\\SaveManager.cs",
+              "ToolTip": "D:\\NewMyPaint\\paint\\Adapter\\SaveManager.cs",
               "RelativeToolTip": "paint\\Adapter\\SaveManager.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,23 +238,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SelectStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Strategy\\SelectStrategy.cs",
-              "RelativeDocumentMoniker": "paint\\Strategy\\SelectStrategy.cs",
-              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Strategy\\SelectStrategy.cs",
-              "RelativeToolTip": "paint\\Strategy\\SelectStrategy.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEAAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T10:36:49.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "CreateCommand.cs",
-              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\command\\CreateCommand.cs",
+              "DocumentMoniker": "D:\\NewMyPaint\\paint\\command\\CreateCommand.cs",
               "RelativeDocumentMoniker": "paint\\command\\CreateCommand.cs",
-              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\command\\CreateCommand.cs",
+              "ToolTip": "D:\\NewMyPaint\\paint\\command\\CreateCommand.cs",
               "RelativeToolTip": "paint\\command\\CreateCommand.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA+wB8AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -155,35 +250,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Strategy\\CreateStrategy.cs",
-              "RelativeDocumentMoniker": "paint\\Strategy\\CreateStrategy.cs",
-              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Strategy\\CreateStrategy.cs",
-              "RelativeToolTip": "paint\\Strategy\\CreateStrategy.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAIwD4AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T10:14:54.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Strategy\\IStrategy.cs",
-              "RelativeDocumentMoniker": "paint\\Strategy\\IStrategy.cs",
-              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\Strategy\\IStrategy.cs",
-              "RelativeToolTip": "paint\\Strategy\\IStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T10:14:34.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "ScaleCommand.cs",
-              "DocumentMoniker": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\command\\ScaleCommand.cs",
+              "DocumentMoniker": "D:\\NewMyPaint\\paint\\command\\ScaleCommand.cs",
               "RelativeDocumentMoniker": "paint\\command\\ScaleCommand.cs",
-              "ToolTip": "C:\\Users\\otrix\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\paint\\paint\\command\\ScaleCommand.cs",
+              "ToolTip": "D:\\NewMyPaint\\paint\\command\\ScaleCommand.cs",
               "RelativeToolTip": "paint\\command\\ScaleCommand.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -16,7 +16,8 @@ namespace paint.Decorator
         Fig _editFigure;
         public MoveFigure(Fig editFigure = null) : base(editFigure)
         {
-            _editFigure = editFigure;
+            if (editFigure != null)
+                _editFigure = editFigure;
         }
         public override Fig GetFormattedFigure(Point mousePosition, Brush brush = null)
         {
